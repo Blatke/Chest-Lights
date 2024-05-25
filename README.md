@@ -9,7 +9,7 @@ I was so tired of adding spotlights as well as pointlights to the characters in 
 
 I prepared several colors of spotlights and pointlights that were built-in functions in Unity engine, and ported them to HS2/AIS as accessories.
 
-Please check the latest version on the Release page.
+Please check the latest version on the **[Release](https://github.com/Blatke/Chest-Lights/releases)** page.
 
 So, to add them in Chara Maker, just to go to the Accessory panel, and search for "blake", "chest" or "light" in the Chest tab. Add them to your character, and you can adjust their positions and rotations. But you cannot adjust its scale or strength.
 
